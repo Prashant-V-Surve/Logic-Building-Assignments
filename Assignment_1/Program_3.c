@@ -3,7 +3,7 @@
 //  File name :     Program_3.c
 //  Descreption :   Use to print 5 to 1 numbers.
 //  Author :        Prashant V. Surve
-//  Date :          28/04/2025
+//  Date :          10/05/2025
 //
 ///////////////////////////////////////////////////////
 
