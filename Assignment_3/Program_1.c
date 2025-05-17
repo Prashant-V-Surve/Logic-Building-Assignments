@@ -4,7 +4,7 @@
 //  Descreption :   Accept a number from user and print
 //                  that number of even numbers.
 //  Author :        Prashant V. Surve
-//  Date :          28/04/2025
+//  Date :          10/05/2025
 //
 ///////////////////////////////////////////////////////////
 
