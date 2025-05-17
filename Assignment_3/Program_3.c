@@ -4,7 +4,7 @@
 //  Descreption :   Accept anumber from user and print
 //                  even factors of that number.
 //  Author :        Prashant V. Surve
-//  Date :          28/04/2025
+//  Date :          10/05/2025
 //
 ////////////////////////////////////////////////////////
 
